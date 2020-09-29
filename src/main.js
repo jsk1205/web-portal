@@ -3,11 +3,10 @@ import App from "./App";
 import router from "./router";
 import VueSession from "vue-session";
 import ElementUI from "element-ui";
-import "@/icons";
 import store from "./store/index";
 import("element-ui/lib/theme-chalk/index.css");
 import "@/style/index.scss";
-import "./permission";
+
 import API from '@/api/index'
 
 Vue.use(VueSession);
