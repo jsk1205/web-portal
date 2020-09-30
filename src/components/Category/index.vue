@@ -2,7 +2,9 @@
   <div>
     <div v-show="1==Index">
 
-          <div class="home-img">我是图片区域</div>
+          <!-- <div class="home-img">
+            <img src="../../assets/img//banner-1.jpg" alt="">
+          </div> -->
 
           <div class="home-content">
             <div class="home-content-item">
@@ -64,8 +66,8 @@ export default {
 
 <style lang="scss" scoped>
 .home-img {
-  width: 80%;
-  height: 260px;
+  width: 1920px;
+  height: 600px;
   background: skyblue;
   margin:0 auto;
   overflow: hidden;
