@@ -214,27 +214,25 @@ export default {
   margin:120px 80px 120px 370px;
 }
 .home-content-title{
-  margin:173px 604px 48px 0;
+  margin:173px 604px 48px 220px;
 }
 .home-content-title>span{
   display: block;
   text-align: center;
+  font-family: PingFang SC;
+  font-weight: 800;
+  color: #192238;
 }
 .txtUS{
     // width:156px;
   height: 38px;  
   font-size: 40px;
-  font-family: PingFang SC;
-  font-weight: 800;
-  color: #192238;
+
 }
 .txtUP{
   // width: 84px;
   height: 12px;
   font-size: 16px;
-  font-family: PingFang SC;
-  font-weight: 800;
-  color: #192238;
   opacity: 0.8;
   margin-top:36px;
 }
